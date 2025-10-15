@@ -9,7 +9,7 @@ Necessário mudar a forma de anexar a informação no Ecoleta, trocar de "Input"
 Lista de profissões Sugeridas:
 -https://github.com/dev-vra/alt_ecoleta/blob/main/profissoes.md
 
--Adicionar as opções a opção: "Outro" - Para casos de erro de digitação contidos no documento.
+>Adicionar as opções a opção: "Outro" - Para casos de erro de digitação contidos no documento.
 
 ## Estado Civil
 - Alterar opções de seleção para:
