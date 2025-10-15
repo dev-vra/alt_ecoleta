@@ -37,6 +37,7 @@ Necessário mudar a forma de anexar a informação no Ecoleta, trocar de "Input"
  - Orgão Expedidor
  - Estado Emissor
 > https://github.com/dev-vra/alt_ecoleta/blob/main/Estado.md
+
 > https://github.com/dev-vra/alt_ecoleta/blob/main/Orgao.md
 
 ### Fluxo de Seleção padrão
