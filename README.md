@@ -7,9 +7,9 @@
 Necessário mudar a forma de anexar a informação no Ecoleta, trocar de "Input", onde o usuário insere manualmente as informações, para caixa de seleção "Dropdown":
 
 Lista de profissões Sugeridas:
->https://github.com/dev-vra/alt_ecoleta/blob/main/profissoes.md
+-https://github.com/dev-vra/alt_ecoleta/blob/main/profissoes.md
 
-> Adicionar as opções a opção: "Outro" - Para casos de erro de digitação contidos no documento.
+-Adicionar as opções a opção: "Outro" - Para casos de erro de digitação contidos no documento.
 
 ## Estado Civil
 - Alterar opções de seleção para:
@@ -36,9 +36,9 @@ Necessário mudar a forma de anexar a informação no Ecoleta, trocar de "Input"
 
  - Orgão Expedidor
  - Estado Emissor
-> https://github.com/dev-vra/alt_ecoleta/blob/main/Estado.md
+-https://github.com/dev-vra/alt_ecoleta/blob/main/Estado.md
 
-> https://github.com/dev-vra/alt_ecoleta/blob/main/Orgao.md
+-https://github.com/dev-vra/alt_ecoleta/blob/main/Orgao.md
 
 ### Fluxo de Seleção padrão
 ```mermaid
